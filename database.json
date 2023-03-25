@@ -1,0 +1,134 @@
+{
+  "users": {
+    "62881082123729@s.whatsapp.net": {
+      "exp": 86,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    },
+    "6285894730914@s.whatsapp.net": {
+      "exp": 382,
+      "limit": 10,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    }
+  },
+  "chats": {
+    "120363057594452121@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antiDelete": false,
+      "antiLink": false,
+      "viewOnce": false,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "general-menu.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1679680648314,
+      "lastSuccess": 1679680648314
+    },
+    "misc-speed.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1679680627324,
+      "lastSuccess": 1679680627324
+    },
+    "sticker.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1679680600305,
+      "lastSuccess": 1679680600305
+    },
+    "misc-delete.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1679680238979,
+      "lastSuccess": 1679680238979
+    },
+    "tools-translate.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1679680268482,
+      "lastSuccess": 0
+    },
+    "tools-obfus.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1679680292512,
+      "lastSuccess": 0
+    },
+    "misc-profile.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1679680306139,
+      "lastSuccess": 1679680306139
+    },
+    "misc-dashboard.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1679680326061,
+      "lastSuccess": 1679680326061
+    },
+    "tools-readmore.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1679680386048,
+      "lastSuccess": 1679680386048
+    },
+    "tools-ssweb.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1679680437292,
+      "lastSuccess": 1679680437292
+    },
+    "tools-getcaption.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1679680460241,
+      "lastSuccess": 0
+    },
+    "tools-jadwalsholat.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1679680510907,
+      "lastSuccess": 1679680510907
+    },
+    "group-sdesc.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1679680565373,
+      "lastSuccess": 1679680565373
+    },
+    "misc-runtime.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1679680638496,
+      "lastSuccess": 1679680638496
+    },
+    "creator.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1679680657534,
+      "lastSuccess": 1679680657534
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "62881082123729@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false
+    }
+  }
+}
